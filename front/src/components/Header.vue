@@ -1,15 +1,18 @@
 <template>
     <div class="container">
         <ul>
-            <li>Mariage</li>
-            <li>Portrait</li>
-            <li>Tarif</li>
-            <li>A propos</li>
-            <li>Me contacter</li>
+            <li><a href="#">Mariage</a></li>
+            <li><a href="#">Portrait</a></li>
+            <li><a href="#">Tarif</a></li>
+            <li><a href="#">A propos</a></li>
+            <li><a href="#">Me contacter</a></li>
         </ul>
     </div>
 </template>
 
 <style>
-
+ul{
+    display: flex;
+    list-style-type: none;
+}
 </style>
