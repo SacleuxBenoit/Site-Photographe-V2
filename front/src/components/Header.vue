@@ -6,7 +6,7 @@
             <li><a href="#">Mariage</a></li>
             <li><a href="#">Portrait</a></li>
             <li><a href="#">Tarif</a></li>
-            <li><a href="#">A propos</a></li>
+            <li><router-link to="/about">A propos</router-link></li>
             <li><a href="#">Me contacter</a></li>
         </ul>
         </nav>
