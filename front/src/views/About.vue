@@ -9,5 +9,7 @@
 .about{
   text-align: center;
   padding-top:3rem;
+  margin-right: 18rem;
+  margin-left: 18rem;
 }
 </style>
