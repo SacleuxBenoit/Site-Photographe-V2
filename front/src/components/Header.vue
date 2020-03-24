@@ -1,7 +1,7 @@
 <template>
     <div class="container">
         <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed&display=swap" rel="stylesheet">
-        <nav>
+        <nav class="nav-header">
         <ul>
             <li><a href="#">Mariage</a></li>
             <li><a href="#">Portrait</a></li>
@@ -19,7 +19,7 @@ nav{
     justify-content: center;
 }
 
-nav a {
+.nav-header a {
     margin-left: 20px;
     font-size:1.4rem;
     font-family: 'Roboto Condensed', sans-serif;
