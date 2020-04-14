@@ -3,6 +3,7 @@
         <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed&display=swap" rel="stylesheet">
         <nav class="nav-header">
         <ul>
+            <li><a href="#">Accueil</a></li>
             <li><a href="#">Mariage</a></li>
             <li><a href="#">Portrait</a></li>
             <li><a href="#">Tarif</a></li>
